@@ -1,0 +1,3 @@
+flow_cytometry_outputs/
+flow_cytometry_trained/
+__pycache__/
